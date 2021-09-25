@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bohorababin1@gmail.com
+	name = Babin Bohora
